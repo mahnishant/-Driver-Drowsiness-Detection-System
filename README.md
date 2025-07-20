@@ -15,7 +15,9 @@ AI-powered system to detect driver fatigue by tracking eye closure in real-time 
 - Mediapipe
 - Tkinter
 - Matplotlib
-- PyInstaller
+- Pandas
+- datetime
+- pygame
 
 ## 🚀 How to Run
 
