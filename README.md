@@ -22,8 +22,8 @@ AI-powered system to detect driver fatigue by tracking eye closure in real-time 
 ### 1. Clone the repo
 
 bash
-git clone https://github.com/mahnishant/-Driver-Drowsiness-Detection-System.git
-cd driver-drowsiness-detector
+git clone https://github.com/mahnishant/Driver-Drowsiness-Detection-System.git
+
 
 ## Snapshots 
 
